@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cvcconcept.com/sitemap-index.xml
+Sitemap: https:/el-khey4002.github.io/yacms-client-palmy/sitemap-index.xml
