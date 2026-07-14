@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "component": "blocks/navigation/NavMegaMenu",
+    "section": "shared/navigation"
+  },
+  "data": {
+    "logo": {
+      "text": "CVC CONCEPT",
+      "href": "/",
+      "image": "/logos/logo.png",
+      "size": "lg"
+    },
+    "links": [
+      {
+        "label": "Accueil",
+        "href": "/"
+      },
+      {
+        "label": "Nos Offres",
+        "groups": [
+          {
+            "label": "Génie Climatique",
+            "description": "Climatisation, Ventilation, Chauffage",
+            "items": [
+              {
+                "label": "Climatisation & Ventilation",
+                "href": "/nos-offres/genie-climatique/climatisation-ventilation",
+                "_tid": "cvc1aClm"
+              },
+              {
+                "label": "Chauffage & Plomberie",
+                "href": "/nos-offres/genie-climatique/chauffage-plomberie",
+                "_tid": "cvc2bChf"
+              },
+              {
+                "label": "Maintenance & Dépannage",
+                "href": "/nos-offres/genie-climatique/maintenance-depannage",
+                "_tid": "cvc3cMnt"
+              }
+            ],
+            "_tid": "grp1Cvc"
+          },
+          {
+            "label": "Travaux Publics",
+            "description": "VRD, Voirie, Signalisation",
+            "items": [
+              {
+                "label": "Voirie & VRD",
+                "href": "/nos-offres/travaux-publics/voirie-vrd",
+                "_tid": "cvc4dVrd"
+              },
+              {
+                "label": "Signalisation Routière",
+                "href": "/nos-offres/travaux-publics/signalisation-routiere",
+                "_tid": "cvc5eSig"
+              },
+              {
+                "label": "Drainage & Canalisation",
+                "href": "/nos-offres/travaux-publics/drainage-canalisation",
+                "_tid": "cvc6fDrn"
+              }
+            ],
+            "_tid": "grp2Tp"
+          },
+          {
+            "label": "Bâtiment",
+            "description": "Construction, Rénovation, TCE",
+            "items": [
+              {
+                "label": "Bâtiment Tous Corps d'État",
+                "href": "/nos-offres/batiment/tous-corps-detat",
+                "_tid": "cvc7gBat"
+              }
+            ],
+            "_tid": "grp3Bat"
+          }
+        ],
+        "_tid": "lnk1Srv"
+      },
+      {
+        "label": "À propos",
+        "groups": [
+          {
+            "label": "Découvrir CVC CONCEPT",
+            "description": "Génie climatique & travaux publics",
+            "items": [
+              {
+                "label": "Notre Entreprise",
+                "href": "/a-propos",
+                "_tid": "cvcAp1En"
+              },
+              {
+                "label": "Nos Équipements",
+                "href": "/equipements",
+                "_tid": "cvcAp3Eq"
+              }
+            ],
+            "_tid": "grp4Abt"
+          }
+        ],
+        "_tid": "lnk2Abt"
+      },
+      {
+        "label": "Réalisations",
+        "href": "/realisations",
+        "_tid": "lnk3Rel"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact",
+        "_tid": "lnk4Con"
+      }
+    ],
+    "cta": {
+      "text": "Demander un devis",
+      "href": "/contact",
+      "mobilePosition": "inline"
+    }
+  }
+}
