@@ -21,6 +21,7 @@
   "theme": "dark",
   "blocks": [
     "./navigation.json",
+    "./social.json",
     "./hero001.json",
     "./services.json",
     "./stats001.json",

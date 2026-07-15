@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "component": "blocks/trust/SocialSidebar",
+    "section": "home/social"
+  },
+  "data": {
+    "position": "right",
+    "showLabelsOnHover": true,
+    "links": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/yanis_mcm",
+        "icon": { "src": "/logos/instagram.svg", "alt": "Instagram" }
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://wa.me/33699404139",
+        "icon": { "src": "/logos/whatsapp.svg", "alt": "WhatsApp" }
+      },
+      {
+        "label": "Email",
+        "url": "mailto:yanislavalmcm@gmail.com",
+        "icon": { "src": "/logos/email.svg", "alt": "Email" }
+      }
+    ]
+  }
+}
