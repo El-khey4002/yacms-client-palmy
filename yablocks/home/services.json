@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureServiceIcons",
+    "section": "home/services"
+  },
+  "data": {
+    "badge": "Ce que je fais pour vous",
+    "title": "Des services pensés pour votre croissance",
+    "subtitle": "Du montage à la stratégie, je prends en charge vos contenus de A à Z pour vous faire gagner en visibilité.",
+    "services": [
+      {
+        "icon": "clapperboard",
+        "title": "Montage vidéo",
+        "description": "Montage dynamique et rythmé pour Reels, TikTok et YouTube : cuts, sound design, sous-titres et effets qui gardent votre audience jusqu'au bout."
+      },
+      {
+        "icon": "megaphone",
+        "title": "Community management",
+        "description": "Animation et gestion de vos réseaux sociaux : ligne éditoriale, publications régulières et interaction avec votre communauté."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Stratégie de contenu",
+        "description": "Idées de contenus, formats qui performent et calendrier de publication adaptés à votre cible et à vos objectifs."
+      },
+      {
+        "icon": "trending-up",
+        "title": "Croissance & visibilité",
+        "description": "Hooks accrocheurs, optimisation pour l'algorithme et analyse des performances pour gagner en vues, en abonnés et en clients."
+      }
+    ]
+  }
+}

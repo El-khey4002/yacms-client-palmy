@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "component": "blocks/footer/FooterColumns",
+    "section": "home/footer"
+  },
+  "data": {
+    "brand": {
+      "alt": "Yanis Laval",
+      "tagline": "Monteur vidéo & community manager. Je crée des contenus qui font grandir votre présence sur les réseaux sociaux."
+    },
+    "contact": {
+      "phone": "06 99 40 41 39",
+      "email": "yanislavalmcm@gmail.com"
+    },
+    "linkGroups": [
+      {
+        "title": "Me suivre",
+        "links": [
+          { "text": "Instagram — @yanis_mcm", "href": "https://www.instagram.com/yanis_mcm" },
+          { "text": "TikTok — @yanis_mcm", "href": "https://www.tiktok.com/@yanis_mcm" }
+        ]
+      },
+      {
+        "title": "Contact",
+        "links": [
+          { "text": "yanislavalmcm@gmail.com", "href": "mailto:yanislavalmcm@gmail.com" },
+          { "text": "06 99 40 41 39", "href": "tel:0699404139" }
+        ]
+      }
+    ],
+    "socialLinks": [
+      { "platform": "instagram", "href": "https://www.instagram.com/yanis_mcm" },
+      { "platform": "tiktok", "href": "https://www.tiktok.com/@yanis_mcm" }
+    ],
+    "legal": {
+      "copyright": "© 2026 Yanis Laval. Tous droits réservés."
+    }
+  }
+}

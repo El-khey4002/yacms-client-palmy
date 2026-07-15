@@ -1,67 +1,31 @@
 {
   "meta": {
-    "title": "CVC CONCEPT — Génie Climatique, Chauffage & Travaux Publics — Bordj Bou Arréridj",
-    "description": "Spécialiste en Climatisation, Ventilation, Chauffage et Travaux Publics à Bordj Bou Arréridj, Algérie. SARL CVC CONCEPT — Qualifiée Cat. IV TP — Contactez-nous : 0665 55 18 93.",
+    "title": "Yanis Laval — Monteur Vidéo & Community Manager",
+    "description": "Monteur vidéo et community manager freelance. Je crée des vidéos dynamiques pour développer votre activité sur les réseaux sociaux, bâtir une communauté et attirer plus de clients. Devis gratuit et sans engagement.",
     "keywords": [
-      "climatisation Bordj Bou Arréridj",
-      "ventilation industrielle Algérie",
-      "chauffage central BBA",
-      "travaux publics Algérie",
-      "VRD canalisation drainage",
-      "signalisation routière",
-      "génie climatique BBA",
-      "CVC Algérie",
-      "entreprise construction BBA",
-      "bâtiment tous corps d'état",
-      "SARL CVC CONCEPT",
-      "qualification TP catégorie IV"
+      "monteur vidéo",
+      "community manager",
+      "montage vidéo",
+      "création de contenu",
+      "réseaux sociaux",
+      "TikTok",
+      "Instagram Reels",
+      "freelance vidéo",
+      "Yanis Laval"
     ],
-    "author": "CVC CONCEPT",
-    "canonical": "https://cvcconcept.com/",
-    "locale": "fr_DZ",
-    "robots": "index, follow",
-    "og": {
-      "type": "website",
-      "image": "/og-home.png",
-      "imageAlt": "CVC CONCEPT — Génie Climatique & Travaux Publics à Bordj Bou Arréridj"
-    },
-    "structuredData": {
-      "type": "LocalBusiness",
-      "name": "SARL CVC CONCEPT",
-      "logo": "/logos/logo.png",
-      "address": {
-        "street": "Cité 40 Logts RDC Bloc 02, Route de Medjana",
-        "city": "Bordj Bou Arréridj",
-        "postalCode": "34000",
-        "region": "Bordj Bou Arréridj",
-        "country": "DZ"
-      },
-      "phone": "0665551893",
-      "email": "contact@cvcconcept.com",
-      "openingHours": [
-        {
-          "days": [
-            "Sunday",
-            "Monday",
-            "Tuesday",
-            "Wednesday",
-            "Thursday"
-          ],
-          "opens": "08:00",
-          "closes": "17:00"
-        }
-      ]
-    }
+    "author": "Yanis Laval",
+    "canonical": "https://El-khey4002.github.io/yacms-client-palmy/",
+    "locale": "fr_FR",
+    "robots": "index, follow"
   },
-  "theme": "cvcconcept-default",
+  "theme": "dark",
   "blocks": [
-    "@shared/navigation.json",
+    "./navigation.json",
     "./hero001.json",
-    "./features004.json",
-    "./features001.json",
+    "./services.json",
     "./stats001.json",
-    "./features003.json",
+    "./creations.json",
     "./cta001.json",
-    "@shared/footer.json"
+    "./footer.json"
   ]
 }

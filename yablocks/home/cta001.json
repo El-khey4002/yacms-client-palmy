@@ -1,30 +1,23 @@
 {
-    "meta": {
-        "component": "blocks/cta/CTABenefitsGrid",
-        "section": "home/cta001"
+  "meta": {
+    "component": "blocks/cta/CTABanner",
+    "section": "home/cta001"
+  },
+  "data": {
+    "eyebrow": "Un projet en tête ?",
+    "title": "Passons à la vitesse supérieure.",
+    "subtitle": "Contactez-moi pour un devis gratuit et sans engagement — je vous réponds rapidement.",
+    "primaryCTA": {
+      "text": "Demander un devis gratuit",
+      "href": "mailto:yanislavalmcm@gmail.com?subject=Demande%20de%20devis",
+      "variant": "primary"
     },
-    "data": {
-        "title": "Confiez vos projets à des experts qualifiés",
-        "benefits": [
-            {
-                "icon": "award",
-                "text": "Qualifiée Cat. IV Travaux Publics",
-                "_tid": "bn1AwaRd"
-            },
-            {
-                "icon": "shield-check",
-                "text": "100% des chantiers livrés sans réserve",
-                "_tid": "bn2ShLd"
-            },
-            {
-                "icon": "users",
-                "text": "Équipe pluridisciplinaire diplômée",
-                "_tid": "bn3UsRs"
-            }
-        ],
-        "cta": {
-            "text": "Demander un devis gratuit",
-            "link": "/contact"
-        }
-    }
+    "secondaryCTA": {
+      "text": "06 99 40 41 39",
+      "href": "tel:0699404139",
+      "variant": "outline"
+    },
+    "features": ["Devis gratuit", "Sans engagement", "Réponse rapide"],
+    "layout": "centered"
+  }
 }

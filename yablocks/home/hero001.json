@@ -1,23 +1,20 @@
 {
   "meta": {
-    "component": "blocks/hero/HeroFullscreenInset",
+    "component": "blocks/hero/HeroCenteredMinimal",
     "section": "home/hero001"
   },
   "data": {
-    "title": "CA VA ADEL ??",
-    "subtitle": "Climatisation, Ventilation, Chauffage, VRD et Signalisation Routière — SARL CVC CONCEPT livre vos chantiers dans les délais, sans réserve, partout en Algérie.",
-    "backgroundImage": {
-      "src": "/images/hero-background.jpg",
-      "alt": "Chantier CVC CONCEPT — Génie climatique et travaux publics en Algérie"
-    },
+    "overtitle": "MONTEUR VIDÉO · COMMUNITY MANAGER",
+    "title": "Développez votre activité grâce à des vidéos qui captent l'attention",
+    "subtitle": "Vous souhaitez développer votre présence sur les réseaux sociaux, bâtir une communauté engagée et attirer plus de clients ? Je conçois et monte des contenus dynamiques qui transforment vos vues en résultats.",
     "cta": {
       "primary": {
-        "text": "Demander un devis",
-        "link": "/contact"
+        "text": "Devis gratuit & sans engagement",
+        "link": "mailto:yanislavalmcm@gmail.com?subject=Demande%20de%20devis"
       },
       "secondary": {
-        "text": "Voir nos réalisations",
-        "link": "/realisations"
+        "text": "Voir mes créations",
+        "link": "#section-actualites"
       }
     }
   }

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "component": "blocks/portfolio/PortfolioFilterGrid",
+    "section": "home/creations"
+  },
+  "data": {
+    "title": "Quelques-unes de mes créations",
+    "categories": ["Concours", "Client"],
+    "projects": [
+      {
+        "title": "3e place — Concours d'editing PepeChicken",
+        "description": "Vidéo d'editing dynamique qui m'a valu la 3ème place du concours PepeChicken. Rythme, effets et timing au service de l'impact.",
+        "image": {
+          "src": "/images/creations/pepechicken.jpg",
+          "alt": "Miniature de la vidéo primée au concours d'editing PepeChicken"
+        },
+        "category": "Concours",
+        "stat": {
+          "icon": "trophy",
+          "value": "3e place"
+        },
+        "link": {
+          "url": "https://www.tiktok.com/@yanis_mcm",
+          "label": "Voir la vidéo"
+        }
+      },
+      {
+        "title": "Vidéo dynamique & humoristique pour un client",
+        "description": "Réalisation d'une vidéo rythmée et pleine d'humour pour un client, pensée pour maximiser l'engagement et les partages.",
+        "image": {
+          "src": "/images/creations/video-client.jpg",
+          "alt": "Miniature d'une vidéo humoristique réalisée pour un client"
+        },
+        "category": "Client",
+        "stat": {
+          "icon": "smile",
+          "value": "Humour"
+        },
+        "link": {
+          "url": "https://www.tiktok.com/@yanis_mcm",
+          "label": "Voir la vidéo"
+        }
+      }
+    ],
+    "cta": {
+      "text": "Voir plus sur mon TikTok",
+      "link": "https://www.tiktok.com/@yanis_mcm",
+      "icon": "external-link"
+    }
+  }
+}
